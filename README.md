@@ -1,5 +1,7 @@
 # Gym Reservation
 
+![](https://img.shields.io/badge/Activity-Reserve-yellowgreen)
+
 Gym auto reservation script using requests and OCR.
 
 ## Requirements
