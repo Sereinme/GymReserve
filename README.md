@@ -19,6 +19,8 @@ re
 
 Configure parameters in `config.py`. `gym-id` and `item-id` can be fetched on [50.tsinghua](https://50.tsinghua.edu.cn/).
 
+Set start time in `cmd.bat`, format `YYYY/MM/DD`.
+
 ## TODO
 
 * Online payment
