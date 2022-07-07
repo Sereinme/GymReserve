@@ -1,1 +1,0 @@
-schtasks /create /sc ONCE /tn GymReserve /tr "python C:\Users\sereinme\reserve\main.py" /sd 2022/07/06 /st 17:55
