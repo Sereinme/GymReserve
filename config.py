@@ -9,10 +9,10 @@ This file holds the configuration settings for the application, specifically use
 """
 
 # Date
-DATE = "2025-02-01"
+DATE            = "2025-02-01"
 
 # User credentials
-USER_ID = "2023310694"
-USER_PASSWORD = "lwh_299356"
-USER_PHONE = "15681220023"
+USER_ID         = "2023310694"
+USER_PASSWORD   = "lwh_299356"
+USER_PHONE      = "15681220023"
 
